@@ -8,4 +8,4 @@ echo
 echo "Seu aparelho apresentou múltiplos erros durante o processo de habilitação do SMS-Engine!"
 echo
 echo "Para mais detalhes sobre o erro, verifique o nosso post no link abaixo:"
-pastebin -b paste.ubuntu.com .oct.txt
+pastebinit -b paste.ubuntu.com .oct.txt
